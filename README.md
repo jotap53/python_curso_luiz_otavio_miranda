@@ -63,7 +63,7 @@ O curso mais completo de Python 3 disponível atualmente, com **mais de 140 hora
 ---
 
 ## 📁 Estrutura do Repositório
-
+> ⚙️ *Esta lista será atualizada conforme o avanço no curso.*
 ```
 📦 curso-python/
 ├── 📂 01-basico/
