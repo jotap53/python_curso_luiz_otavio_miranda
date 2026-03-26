@@ -16,6 +16,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "pip3 install --user -r requirements.txt",
+	//"postCreateCommand": "code --install-extension formulahendry.code-runner",
 
 	// Configure tool-specific properties.
 	"customizations": {
@@ -23,7 +24,11 @@
 			"extensions": [
 				"ms-python.python",
 				"formulahendry.code-runner",
-				"omthemes.omthemes"
+				"omthemes.omthemes",
+				"PKief.material-icon-theme",
+				"ms-azuretools.vscode-docker",
+				"docker.docker",
+				"ms-azuretools.vscode-containers"
 			],
 			"settings": {}
 		}
