@@ -22,7 +22,7 @@
 		"vscode": {
 			"extensions": [
 				"ms-python.python",
-				"dbaeumer.vscode-eslint",
+				"formulahendry.code-runner",
 				"omthemes.omthemes"
 			],
 			"settings": {}
