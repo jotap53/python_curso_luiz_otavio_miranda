@@ -115,6 +115,8 @@ pip install -r requirements.txt
 
 Este repositório contém apenas anotações e exercícios pessoais de estudo. Todo o conteúdo do curso pertence ao seu respectivo autor/instrutor.
 
+---
+
 ## Desenvolvedor
 
 | [<img src="https://avatars.githubusercontent.com/jotap53" width=115><br><sub>João Pedro Martins</sub>](https://github.com/jotap53) |
