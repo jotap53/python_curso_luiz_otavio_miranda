@@ -87,10 +87,10 @@ O curso mais completo de Python 3 disponível atualmente, com **mais de 140 hora
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/curso-python.git
+git clone https://github.com/jotap53/python_curso_luiz_otavio_miranda
 
 # Acesse o diretório
-cd curso-python
+cd python_curso_luiz_otavio_miranda
 
 # (Opcional) Crie um ambiente virtual
 python -m venv venv
@@ -114,3 +114,8 @@ pip install -r requirements.txt
 ## 📝 Licença
 
 Este repositório contém apenas anotações e exercícios pessoais de estudo. Todo o conteúdo do curso pertence ao seu respectivo autor/instrutor.
+
+## Desenvolvedor
+
+| [<img src="https://avatars.githubusercontent.com/jotap53" width=115><br><sub>João Pedro Martins</sub>](https://github.com/jotap53) |
+| :---: |
