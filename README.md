@@ -66,17 +66,14 @@ O curso mais completo de Python 3 disponível atualmente, com **mais de 140 hora
 > ⚙️ *Esta lista será atualizada conforme o avanço no curso.*
 ```
 📦 curso-python/
-├── 📂 01-basico/
-├── 📂 02-intermediario/
-├── 📂 03-avancado/
-├── 📂 04-poo/
-├── 📂 05-modulos/
-├── 📂 06-banco-de-dados/
-├── 📂 07-django/
-├── 📂 08-pyside6/
-├── 📂 09-testes/
-├── 📂 10-design-patterns/
-└── 📂 projetos/
+├── 📂 .devcontainer/
+├── 📂 conteudo_do_curso/
+├── 📂 settings/
+├── .gitignore
+├── hello_world.py
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ---
