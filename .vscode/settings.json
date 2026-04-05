@@ -1,5 +1,5 @@
 {
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "workbench.startupEditor": "none",
     "explorer.compactFolders": false,
     "workbench.iconTheme": "material-icon-theme",
@@ -9,5 +9,10 @@
         "python": "clear ; python -u"
     },
     "code-runner.runInTerminal": true,
-    "code-runner.ignoreSelection": true
+    "code-runner.ignoreSelection": true,
+    "editor.quickSuggestions": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.guides.indentation": true,
+    "editor.guides.highlightActiveIndentation": true,
+    "editor.renderWhitespace": "all"
 }
